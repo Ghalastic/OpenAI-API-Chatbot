@@ -60,7 +60,7 @@ def get_gpt_response(user_input):
     return response.choices[0].message.content
 ```
 #### 
-### 5- Defining the Chat Function:
+### 5- Define the Chat Function:
 #### 
 ```
 def chat():
@@ -73,7 +73,7 @@ def chat():
         print(f"Chatbot: {response}")
 ```
 #### 
-### 6- Running the Chat Function:
+### 6- Run the Chat Function:
 #### 
 ```
 if __name__ == "__main__":
