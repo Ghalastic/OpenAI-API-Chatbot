@@ -1,4 +1,4 @@
-# openai API Chatbot
+# OpenAI API Chatbot
 ####
 ## Task Description:-
 #### 
@@ -85,3 +85,9 @@ if __name__ == "__main__":
 #### 
 [Python Chatbot Tutorial | Using OpenAI API to Create a Smart Chatbot](https://youtu.be/w55C8cLWz74?si=S5BuYAL5wTckqU9r)
 #### 
+## Illustrations:-
+#### 
+![‏‏لقطة الشاشة (2405)](https://github.com/user-attachments/assets/12c8ae3a-d6c6-40ca-a419-582062f000bf)
+#### 
+![‏‏لقطة الشاشة (2400)](https://github.com/user-attachments/assets/82d247e9-f358-4426-bb88-38039d2507fd)
+####
